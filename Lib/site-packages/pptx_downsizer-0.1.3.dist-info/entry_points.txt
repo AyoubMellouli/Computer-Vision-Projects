@@ -1,0 +1,3 @@
+[console_scripts]
+pptx-downsizer = pptx_downsizer.pptx_downsizer:cli
+
